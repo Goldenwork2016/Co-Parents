@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "369935644977",
+    "firebase_url": "https://co-parents-d88df.firebaseio.com",
+    "project_id": "co-parents-d88df",
+    "storage_bucket": "co-parents-d88df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369935644977:android:3b52f3128e7b799e",
+        "android_client_info": {
+          "package_name": "com.coparents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369935644977-iaerqv3ghlq01r9pl0bel3vmtfh62fl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjaVw15gf_DobEaCeRED3rM4Q6lWSLdrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

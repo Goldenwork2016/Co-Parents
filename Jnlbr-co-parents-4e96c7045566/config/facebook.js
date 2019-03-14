@@ -1,0 +1,4 @@
+export default {
+  ID: 779280012449928,
+  APP_SECRET: '13e218dfdf152f529727843ed0716f81'
+}

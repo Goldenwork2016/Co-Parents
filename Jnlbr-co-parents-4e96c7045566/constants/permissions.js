@@ -1,0 +1,1 @@
+export default ['public_profile', 'email'];
